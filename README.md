@@ -8,6 +8,8 @@ This is Supta Richard Philip, working as an instructor.Love to learn and teach. 
 
 2. [Numerical Analysis](https://github.com/suptaphilip/CityUniversity-NumericalAnalysis/)
 
+3. [Artificial Intelligence](https://github.com/suptaphilip/CityUniversity-AI)
+
 
 
  
