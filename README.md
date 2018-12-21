@@ -10,6 +10,7 @@ This is Supta Richard Philip, working as an instructor.Love to learn and teach. 
 
 3. [Artificial Intelligence](https://suptaphilip.github.io/CityUniversity-AI/)
 
+4. [Discrete Mathematics](https://suptaphilip.github.io/CityUniversity-Discrete-Math/)
 
 
  
