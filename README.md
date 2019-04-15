@@ -16,7 +16,7 @@ Currently I am teaching the following courses.
 
 ### Spring 2019
 
-1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence/)
+1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-Spring2019/)
 
 2. [System Analysis and Design](https://suptaphilip.github.io/System-Analysis-and-Design/)
 
