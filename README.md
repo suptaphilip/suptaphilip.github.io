@@ -5,13 +5,14 @@ This is Supta Richard Philip, working as an instructor.Love to learn and teach.
 Currently I am teaching the following courses.
 > For notes and sources code please visit course home pages.
 
-### Summer 2018
 
-1. [Data Structure](https://suptaphilip.github.io/CityUniversity-DataStructure/)
+## Spring 2019
 
-2. [Numerical Analysis](https://github.com/suptaphilip/Numerical-Analysis/tree/Summer-2018)
+1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-Spring2019/)
 
-3. [Discrete Mathematics](https://suptaphilip.github.io/Discrete-Mathematics/)
+2. [System Analysis and Design](https://suptaphilip.github.io/System-Analysis-and-Design/)
+
+3. [Data Communication](https://suptaphilip.github.io/Data-Communication/)
 
 
 ### Fall 2018
@@ -23,10 +24,12 @@ Currently I am teaching the following courses.
 3. [Discrete Mathematics](https://suptaphilip.github.io/Discrete-Mathematics/)
 
 
-### Spring 2019
+### Summer 2018
 
-1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-Spring2019/)
+1. [Data Structure](https://suptaphilip.github.io/CityUniversity-DataStructure/)
 
-2. [System Analysis and Design](https://suptaphilip.github.io/System-Analysis-and-Design/)
+2. [Numerical Analysis](https://github.com/suptaphilip/Numerical-Analysis/tree/Summer-2018)
 
-3. [Data Communication](https://suptaphilip.github.io/Data-Communication/)
+3. [Discrete Mathematics](https://suptaphilip.github.io/Discrete-Mathematics/)
+
+
