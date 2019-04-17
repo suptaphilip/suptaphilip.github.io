@@ -5,6 +5,15 @@ This is Supta Richard Philip, working as an instructor.Love to learn and teach.
 Currently I am teaching the following courses.
 > For notes and sources code please visit course home pages.
 
+### Summer 2018
+
+1. [Data Structure](https://suptaphilip.github.io/CityUniversity-DataStructure/)
+
+2. [Numerical Analysis](https://github.com/suptaphilip/Numerical-Analysis/tree/Summer-2018)
+
+3. [Discrete Mathematics](https://suptaphilip.github.io/Discrete-Mathematics/)
+
+
 ### Fall 2018
 
 1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence/)
