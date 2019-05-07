@@ -5,6 +5,9 @@ This is Supta Richard Philip, working as an instructor.Love to learn and teach.
 Currently I am teaching the following courses.
 > For notes and sources code please visit course home pages.
 
+## Announcement for Project Student
+[Link](https://suptaphilip.github.io/For-Project-Student/)
+
 
 ## Spring 2019
 
