@@ -9,6 +9,17 @@ Currently I am teaching the following courses.
 [Link](https://suptaphilip.github.io/For-Project-Student/)
 
 
+## Summer 2019
+
+1. [Advanced Enterprise Java(J2EE)](https://suptaphilip.github.io/Advance-Java-J2EE/)
+
+2. [Data Communication](https://suptaphilip.github.io/Data-Communication/)
+
+3. [Software Engineering]()
+
+ 
+
+
 ## Spring 2019
 
 1. [Artificial Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-Spring2019/)
