@@ -19,7 +19,7 @@ Currently I am teaching the following courses.
 
 2. [Data Communication](https://suptaphilip.github.io/Data-Communication/)
 
-3. [Software Engineering]()
+3. [Software Engineering](https://suptaphilip.github.io/Software-Engineering/)
 
  
 
