@@ -4,15 +4,23 @@ Hello World,
 
 This is Supta Richard Philip. Love to learn and teach.
 
-A Computer Science Graduate from university of Trento, Italy, now working as a Sr. Lecturer in City University, Dhaka, Bangladesh who have strong research skills in Software Engineering, Human ComputerInteraction (HCI), Big Data, Artificial Intelligence specially in NLP and Machine Learning.
+A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with Software Engineering, Human Computer Interaction (HCI), Big Data, Artificial Intelligence specially in NLP and Machine Learning.
 
 Currently I am teaching the following courses.
+# Currently at AIUB
+# Spring 2019-2020
+ Object Oriented Programming 1(Java)
+ Web Technologies
+ Programming Language 1 (C)
+ Operating System
 
+# Fall 2019-2020
+ Software Engineering
+ Network Security
+ Operating System
 
+# Previously At City University
 ## Announcement for Project Student [Link](https://suptaphilip.github.io/For-Project-Student/)
-
-
-# Currently Teaching
 ## Summer 2019
 
 1. [Advanced Enterprise Java(J2EE)](https://suptaphilip.github.io/Advance-Java-J2EE/)
