@@ -9,15 +9,15 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 Currently I am teaching the following courses.
 # Currently at AIUB
 # Spring 2019-2020
- Object Oriented Programming 1(Java)
- Web Technologies
- Programming Language 1 (C)
- Operating System
+1. Object Oriented Programming 1(Java)
+2. Web Technologies
+3. Programming Language 1 (C)
+4. Operating System
 
 # Fall 2019-2020
- Software Engineering
- Network Security
- Operating System
+ 1. Software Engineering
+ 2. Network Security
+ 3. Operating System
 
 # Previously At City University
 ## Announcement for Project Student [Link](https://suptaphilip.github.io/For-Project-Student/)
