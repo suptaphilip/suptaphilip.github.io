@@ -4,11 +4,15 @@ Hello World,
 
 This is Supta Richard Philip. Love to learn and teach.
 
-A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with Software Engineering, Human Computer Interaction (HCI), Big Data, Artificial Intelligence specially in NLP and Machine Learning.
+A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with Software Engineering, Human Computer Interaction (HCI), Artificial Intelligence and Machine Learning.
 
 Currently I am teaching the following courses.
 
 # Currently at AIUB
+
+# Fall 2020-2021
+1. Programming Language 1 (C)
+2. Programming Language 2 (C++)
 
 # Summer 2019-2020
 1. Programming Language 1 (C)
