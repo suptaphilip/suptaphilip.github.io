@@ -14,7 +14,7 @@ Currently I am teaching the following courses.
 1. Programming Language 1 (C)
 2. Programming Language 2 (C++)
 
-# [Publications](blob/master/publications.md/)
+# [Publications](/publications.md/)
 
 
 # Previous Semester
