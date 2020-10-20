@@ -8,11 +8,16 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 Currently I am teaching the following courses.
 
-# Currently at AIUB
+# Currently Semester
 
 # Fall 2020-2021
 1. Programming Language 1 (C)
 2. Programming Language 2 (C++)
+
+# [Publications](/publication.md/)
+
+
+# Previous Semester
 
 # Summer 2019-2020
 1. Programming Language 1 (C)
