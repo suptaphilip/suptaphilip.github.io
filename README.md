@@ -1,5 +1,7 @@
 # Supta Richard philip
 
+# [Publications](/publications.md/) || [Professional Developments](onlineCourse.md)
+
 Hello World,
 
 This is Supta Richard Philip. Love to learn and teach.
@@ -14,7 +16,6 @@ Currently I am teaching the following courses.
 1. Programming Language 1 (C)
 2. Programming Language 2 (C++)
 
-# [Publications](/publications.md/)
 
 
 # Previous Semester
