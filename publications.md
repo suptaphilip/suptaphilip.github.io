@@ -1,3 +1,4 @@
+# [Supta Richard philip](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Professional Developments](onlineCourse.md)
 
 # Publication
 ###  [Google Scholar Link](https://scholar.google.com/citations?user=h8WUVAEAAAAJ&hl=en)
