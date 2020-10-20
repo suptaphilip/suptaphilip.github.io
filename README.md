@@ -1,6 +1,4 @@
-# Supta Richard philip
-
-# [Publications](/publications.md/) || [Professional Developments](onlineCourse.md)
+# [Supta Richard philip](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Professional Developments](onlineCourse.md)
 
 Hello World,
 
