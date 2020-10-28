@@ -1,4 +1,4 @@
-# [Supta Richard philip](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Professional Developments](onlineCourse.md)
+# [Home](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Online Certifications](onlineCourse.md)
 
 Hello World,
 
