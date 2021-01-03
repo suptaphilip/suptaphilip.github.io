@@ -30,8 +30,9 @@ Currently I am teaching the following courses.
 
 # Fall 2019-2020
  1. Software Engineering
- 2. Network Security
- 3. Operating System
+ 2. Computer Networks
+ 3. Network Security
+ 4. Operating System
 
 # Previously At City University
 ## Announcement for Project Student [Link](https://suptaphilip.github.io/For-Project-Student/)
