@@ -8,19 +8,22 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 Currently I am teaching the following courses.
 
-# Currently Semester
+# Current Semester
 
-# Fall 2020-2021
-1. Programming Language 1 (C)
-2. Programming Language 2 (C++)
-
+# Spring 2020-2021
+1. Programming Language 1 (C) - 1 Section
+2. Programming Language 2 (C++) - 2 Section
 
 
 # Previous Semester
 
+# Fall 2020-2021
+1. Programming Language 1 (C)  - 1 Section
+2. Programming Language 2 (C++) - 2 Section
+
 # Summer 2019-2020
-1. Programming Language 1 (C)
-2. Programming Language 2 (C++)
+1. Programming Language 1 (C) - 2 Section
+2. Programming Language 2 (C++) - 1 Section
 
 # Spring 2019-2020
 1. Object Oriented Programming 1(Java)
