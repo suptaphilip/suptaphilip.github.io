@@ -6,16 +6,19 @@ This is Supta Richard Philip. Love to learn and teach.
 
 A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with Software Engineering, Human Computer Interaction (HCI), Artificial Intelligence and Machine Learning.
 
-Currently I am teaching the following courses.
 
-# Current Semester
+
+# Currently, I am teaching the following courses.
+
+# Summer 2020-2021
+1. Programming Language 1 (C) - 3 Section
+2. Discrete Mathematics - 1 Section
+
+# Previous, I took the following courses.
 
 # Spring 2020-2021
 1. Programming Language 1 (C) - 1 Section
 2. Programming Language 2 (C++) - 2 Section
-
-
-# Previous Semester
 
 # Fall 2020-2021
 1. Programming Language 1 (C)  - 1 Section
@@ -26,16 +29,16 @@ Currently I am teaching the following courses.
 2. Programming Language 2 (C++) - 1 Section
 
 # Spring 2019-2020
-1. Object Oriented Programming 1(Java)
-2. Web Technologies
-3. Programming Language 1 (C)
-4. Operating System
+1. Object Oriented Programming 1(Java) -1 Section
+2. Web Technologies  -1 Section
+3. Programming Language 1 (C)  -1 Section
+4. Operating System  -1 Section
 
 # Fall 2019-2020
- 1. Software Engineering
- 2. Computer Networks
- 3. Network Security
- 4. Operating System
+ 1. Software Engineering  -1 Section
+ 2. Computer Networks  -1 Section
+ 3. Network Security  -1 Section
+ 4. Operating System  -1 Section
 
 # Previously At City University
 ## Announcement for Project Student [Link](https://suptaphilip.github.io/For-Project-Student/)
