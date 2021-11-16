@@ -14,7 +14,7 @@
 ## Courses
 
 + Neural Networks and Deep Learning
-> {https://www.coursera.org/account/accomplishments/verify/YYSUS67MDFHX](https://www.coursera.org/account/accomplishments/verify/YYSUS67MDFHX)
+> Link: [https://www.coursera.org/account/accomplishments/verify/YYSUS67MDFHX](https://www.coursera.org/account/accomplishments/verify/YYSUS67MDFHX)
 
 + Algorithmic Toolbox
 > Link: [https://www.coursera.org/account/accomplishments/verify/L5P33YWXBMRB](https://www.coursera.org/account/accomplishments/verify/L5P33YWXBMRB)
