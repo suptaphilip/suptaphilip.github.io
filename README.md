@@ -10,12 +10,16 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # Currently, I am teaching the following courses.
 
+# Spring 2021-2022
+1. Compiler Design - 3 Section[120 students]
+
+
+# Previous, I took the following courses.
+
 # Fall 2021-2022
 1. [Programming Language 1 (C)](https://suptaphilip.github.io/Programming-Language-C/) - 2 Section
 2. Programming Language 2 (C++) - 1 Section
 3. Object Oriented System Analysis and Design - 1 Section
-
-# Previous, I took the following courses.
 
 # Summer 2020-2021
 1. Programming Language 1 (C) - 3 Section
