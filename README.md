@@ -10,6 +10,10 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # Currently, I am teaching the following courses.
 
+# Summer 2021-2022
+1. Compiler Design - 2 Section[80 students]
+2. Algorithm - 1 Section[40 students]
+
 # Spring 2021-2022
 1. Compiler Design - 3 Section[120 students]
 
