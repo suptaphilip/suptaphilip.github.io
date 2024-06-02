@@ -10,7 +10,7 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # Currently, I am teaching the following courses.
 
-# Summer 2022-2024
+# Summer 2023-2024
 1. Algorithm - 2 Section[80 students]
 2. Data Structure - 1 Section[40 students]
 
