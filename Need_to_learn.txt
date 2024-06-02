@@ -1,0 +1,78 @@
+
+
+C/C++
+=====
+1. variable and data type
+ -- > (signed/unsigned)int,(signed/unsigned)long long int,
+	 float, double
+2. Operator and expression(statement)
+	--> arithmetic, logical, bitwise, ternary operator
+3. conditional statement
+	--> if else, if else if .... else, switch
+4. Loops (for, while, do while) , break and continue
+5. Array
+6. pointer
+7. function (user define and library function)/Recursive function
+ 	- Function name, arguments/parameter, return type.
+	- Flow of Function execution
+	- The scope of variables, memory management(Stack memory
+		Heap memory),
+	- dynamic memory allocation(1d array, 2d array)
+	- Call By Value & Reference
+	- Recursion
+	- relation between Array and pointer(pointer arithmetic)
+	- string
+*. Random number
+*. File operation
+*. Structure
+*. OOP
+10. procedural program to OOP
+
+8. Data Structure
+--> Loops (for, while, do while) , break and continue
+--> Array
+--> pointer
+--> Function
+--> Structure
+==================
+--> Stack uisng array
+--> Stack using linked list
+--> Stack (array,linked list) procedural and OOP
+--> Queue uisng array
+--> Queue using linked list
+--> Queue (array,linked list) procedural and OOP
+--> Priority Queue(MaxHeap and MinHeap)
+
+Algorithm
+===============
+9. algorithm and Asymptotic Notation, and Time and Space complexity Analysis.
+10. Searching & Sorting and Complexity
+--> linear search, bubble sort, selection sort, insertion sort
+--> Recursive Function
+--> Recurrences, Repeated (backward) substitution method, 
+	Substitution method, Recursion-trees, and Master theorem.
+	Complexity and Recurrences of binary search, merge sort, quick sort.
+11. Greedy strategy
+--> fractional knapsack problem
+--> coin change problem
+--> activity selection problem
+--> task scheduling problem
+12. Dynamic Programming
+--> Fibonacci problem
+--> 0-1 Knapsack problem
+--> Matrix Chain Multiplication Problem
+--> Longest Common Subsequence Problem
+13. Graphs representation
+--> Adjacency List
+--> Adjacency matrix
+14. Graph algorithm and complexity
+--> Depth-first Search, Breadth-first Search
+--> Topological Sort, Strongly Connected Component
+--> Greedy Graph Algorithm: Minimum Spanning Tree, 
+		Prim-Jarnik Algorithm, and Kruskal's Algorithm
+--> Single Source Shortest Path - Dijkstra's Algorithm, Bellman-Ford Algorithm
+--> All Pair Shortest Path   Floyd-Warshall Algorithm
+
+
+
+
