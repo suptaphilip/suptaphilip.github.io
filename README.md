@@ -10,11 +10,17 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # Currently, I am teaching the following courses.
 
+# Spring 2024-2025
+1. Artificial Intelligence and Expert System - 3 Section[120 students]
+
+# Previous, I took the following courses.
+
+# Fall 2024-2025
+1. Artificial Intelligence and Expert System - 3 Section[120 students]
+2. Data Structure Lab- 2 Section[120 students]
 # Summer 2023-2024
 1. Algorithm - 2 Section[80 students]
 2. Data Structure - 1 Section[40 students]
-
-# Previous, I took the following courses.
 
 # Spring 2023-2024
 1. Artificial Intelligence and Expert System - 3 Section[120 students]
