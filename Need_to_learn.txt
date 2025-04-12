@@ -41,6 +41,8 @@ C/C++
 --> Queue (array,linked list) procedural and OOP
 --> Priority Queue(MaxHeap and MinHeap)
 --> Tree
+--> Graph
+--> disjoint set
 
 Algorithm
 ===============
