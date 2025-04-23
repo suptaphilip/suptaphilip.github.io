@@ -1,4 +1,4 @@
-# [Home](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Online Certifications](onlineCourse.md) || [Masters Thesis](Thesis.md)
+# [Home](https://suptaphilip.github.io/)  ||  [Publications](/publications.md/)   ||  [Online Certifications](onlineCourse.md) || [Masters Thesis](Thesis.md) || [CV](Richard_CV.pdf)
 
 Hello World,
 
