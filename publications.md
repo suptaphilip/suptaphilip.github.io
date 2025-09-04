@@ -12,6 +12,10 @@
 3. SM Saleh, **SR Philip**, NA Shemu, KAA Pavel "Proposed Service Oriented Architecture for the Inheritance Web App of Bangladesh", ICCAKM, 2020,  Dubai, United Arab Emirates.
 
 
+### Book Chapter
+
+1. Dipta Gomes, Md. Manzurul Hasan, **Supta Richard Philip** "Enhancing Capabilities and Security Features of Drone Networks Through Machine Learning: A Comprehensive Overview.", Springer Nature (2025), DOI: 10.1007/978-3-031-80961-3.
+
 ### Book
 
 1. **SR Philip**, A Chowdhury, T Islam "Autonomous Robot Navigation System And Line Following Robot: Autonomous Robot Navigation System Using Optical Mouse-based Odometry, Line Following and End of Line Detection Robot", 2012, LAP Lambert Academic Publishing.
