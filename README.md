@@ -4,7 +4,7 @@ Hello World,
 
 This is Supta Richard Philip. Love to learn and teach.
 
-A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with Software Engineering, algorithm and optimization(graph theory, network theory and geometric algorithms), Artificial Intelligence specially in Machine Learning, deep learning.
+A Computer Science Graduate from university of Trento, Italy, now working as a Lecturer in American International University-Bangladesh(AIUB), Dhaka, Bangladesh. Previously I worked as a Lecturer in City university, Dhaka, Bangladesh. I have strong interest in research with algorithm and optimization(graph theory, network theory and geometric algorithms), Artificial Intelligence specially in Reinforcement Learning, deep learning.
 
 # [Artificial-Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-and-Expert-System/)
 
@@ -12,10 +12,14 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # Currently, I am teaching the following courses.
 
-# Fall 2025-2026
-1. Artificial Intelligence and Expert System - 4 Section[160 students]
+# Spring 2025-2026
+1. Artificial Intelligence and Expert System - 2 Section[80 students]
+2. Introduction to Data Science - 2 Section[80 students]
 
 # Previous, I took the following courses.
+
+# Fall 2025-2026
+1. Artificial Intelligence and Expert System - 4 Section[160 students]
 
 # Summer 2024-2025
 1. Artificial Intelligence and Expert System - 3 Section[120 students]
