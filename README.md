@@ -8,6 +8,8 @@ A Computer Science Graduate from university of Trento, Italy, now working as a L
 
 # [Artificial-Intelligence](https://suptaphilip.github.io/Artificial-Intelligence-and-Expert-System/)
 
+# [Data Science and Machine Learning](https://suptaphilip.github.io/Data-Science-and-Machine-Learning/)
+
 # [Need to Learn for Algorithm](Need_to_learn.txt)
 
 # Currently, I am teaching the following courses.
